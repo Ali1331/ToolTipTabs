@@ -1,0 +1,11 @@
+## Title: ToolTipTabs
+## Author: Ali1331
+## Notes: Adds tabbed and multiple tooltip functionality to item link tooltips
+## Version: 1.4d
+## Interface: 40200
+## SavedVariables: ToolTipTabsDB
+
+libs.xml
+
+ToolTipTabs.lua
+ToolTipTabs.xml

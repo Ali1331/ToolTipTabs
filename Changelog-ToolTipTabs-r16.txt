@@ -1,0 +1,26 @@
+------------------------------------------------------------------------
+r16 | Ali1331 | 2010-10-28
+   Drycoded change for instancelock hyperlinks, please tell me if it doesn't work as I can't get onto WoW to test it (or upload via SVN grr)
+------------------------------------------------------------------------
+r15 | Ali1331 | 2010-09-18 13:58:42 +0000 (Sat, 18 Sep 2010) | 1 line
+Changed paths:
+   M /trunk/ToolTipTabs.lua
+
+Fixed error when changing Skin in ButtonFacade
+------------------------------------------------------------------------
+r14 | Ali1331 | 2010-09-14 19:24:42 +0000 (Tue, 14 Sep 2010) | 2 lines
+Changed paths:
+   M /trunk/ToolTipTabs.lua
+   M /trunk/ToolTipTabs.toc
+   D /trunk/options.lua
+
+AddOn has been rewritten...it might be a good thing, then again it might be worse than before.
+Have fixed the bugs I've come across, as always comment if you find a new one, or if you have a suggestion.
+------------------------------------------------------------------------
+r13 | Ali1331 | 2010-07-03 10:50:08 +0000 (Sat, 03 Jul 2010) | 1 line
+Changed paths:
+   M /trunk/ToolTipTabs.lua
+   M /trunk/ToolTipTabs.toc
+
+Fixed issue with shift and ctrl clicking directly from chat
+------------------------------------------------------------------------
